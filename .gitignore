@@ -8,6 +8,7 @@ target/
 .classpath
 /target/
 /.settings/
+/bin/
 .mvn/*
 .mvnw.*
 ### STS ###
